@@ -1,0 +1,50 @@
+Apple: A crisp and juicy fruit, perfect for a healthy snack.
+Banana: A versatile fruit, great for smoothies, baking, or eating on the go.
+Orange: A citrus fruit packed with vitamin C, known for its bright flavor.
+Strawberry: A sweet and tart berry, ideal for desserts and jams.
+Blueberry: A tiny but mighty berry, bursting with antioxidants.
+Raspberry: A delicate berry with a sweet and tangy flavor.
+Mango: A tropical fruit with a sweet and creamy texture.
+Pineapple: A juicy and tangy fruit, perfect for grilling or adding to cocktails.
+Watermelon: A refreshing and hydrating fruit, perfect for summer.
+Cantaloupe: A sweet and aromatic melon with a light texture.
+Honeydew: A mild and refreshing melon with a slightly sweet flavor.
+Grapes: A small and sweet fruit, perfect for snacking or making wine.
+Kiwi: A tangy and refreshing fruit with a unique green flesh.
+Peach: A juicy and flavorful fruit, perfect for eating fresh or making pies.
+Pear: A crisp and sweet fruit, great for snacking or adding to salads.
+Plum: A sweet and juicy fruit with a vibrant purple skin.
+Cherry: A small and sweet fruit, perfect for baking or eating fresh.
+Lime: A citrus fruit with a tart and tangy flavor, perfect for cocktails.
+Lemon: A citrus fruit with a sour and tangy flavor, perfect for lemonade.
+Avocado: A creamy and nutrient-rich fruit, perfect for guacamole or toast.
+Potato: A starchy vegetable, perfect for mashed potatoes, fries, or baked goods.
+Onion: A pungent vegetable, perfect for adding flavor to soups, stews, and dips.
+Tomato: A juicy and flavorful vegetable, perfect for salads, sauces, and sandwiches.
+Carrot: A crunchy and sweet vegetable, perfect for snacking or adding to stir-fries.
+Broccoli: A cruciferous vegetable, packed with nutrients and vitamins.
+Cauliflower: A versatile vegetable, perfect for roasting, grilling, or making cauliflower rice.
+Spinach: A leafy green vegetable, packed with vitamins and minerals.
+Lettuce: A leafy green vegetable, perfect for salads and wraps.
+Cucumber: A refreshing and hydrating vegetable, perfect for salads and sandwiches.
+Bell Pepper: A sweet and crunchy vegetable, perfect for adding color and flavor to dishes.
+Garlic: A pungent and flavorful bulb, perfect for adding flavor to dishes.
+Ginger: A spicy and aromatic root, perfect for adding flavor to dishes and drinks.
+Milk: A dairy product, perfect for drinking, cooking, and baking.
+Eggs: A versatile protein source, perfect for breakfast, lunch, or dinner.
+Cheese: A dairy product, perfect for snacking, cooking, and baking.
+Yogurt: A dairy product, perfect for breakfast, snacking, or adding to smoothies.
+Bread: A staple food, perfect for sandwiches, toast, and croutons.
+Cereal: A breakfast food, perfect for a quick and easy meal.
+Pasta: A staple food, perfect for pasta dishes, salads, and soups.
+Rice: A staple food, perfect for rice dishes, stir-fries, and salads.
+Chicken: A lean protein source, perfect for grilling, baking, or frying.
+Beef: A red meat, perfect for grilling, roasting, or braising.
+Fish: A lean protein source, perfect for grilling, baking, or frying.
+Shrimp: A shellfish, perfect for grilling, baking, or frying.
+Coffee: A beverage, perfect for a morning pick-me-up.
+Tea: A beverage, perfect for a relaxing afternoon.
+Juice: A beverage, perfect for a refreshing drink.
+Soda: A carbonated beverage, perfect for a sweet treat.
+Water: A hydrating beverage, essential for good health.
+Candy: A sweet treat, perfect for a little indulgence. 
